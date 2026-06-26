@@ -1,10 +1,12 @@
 Title: Stack Overflow Developer Survey Analysis
 
-Technologies used:Python (Programming Language)Pandas & NumPy (Data Wrangling and Analytics)
+Technologies used:
 
-Jupyter Notebook / Google Colab (Development Environment)
+*Python (Programming Language)Pandas & NumPy (Data Wrangling and Analytics)
 
-Git & GitHub
+*Jupyter Notebook / Google Colab (Development Environment)
+
+*Git & GitHub
 
 General Description:This project is a comprehensive data analysis of the global IT ecosystem based on the annual Stack Overflow Developer Survey dataset. It involves processing massive real-world survey responses to uncover patterns in software development, technology adoption, and work environments.
 
