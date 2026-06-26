@@ -1,8 +1,12 @@
-Project: Global Developer Landscape Analysis (Stack Overflow Survey Data)Project Description:Analyzed a large-scale dataset from the annual Stack Overflow Developer Survey using the Pandas library. The goal was to uncover key IT industry trends, technology popularity, salary distributions, and demographic profiles of modern tech professionals.
-Key Contributions & Workflow:
-Data Wrangling & Cleaning: Handled a massive dataset by managing missing values (NaN), filtering noise, and optimizing data types for efficient processing.
-Descriptive Statistics: Computed measures of central tendency (mean, median, mode) and quantiles to evaluate developer experience levels and global compensation.
-Handling Multi-Response Variables: Cleaned and parsed multi-select text fields (e.g., lists of technologies and programming languages) to calculate exact percentage distributions.
-Grouping & Aggregation: Segmented data by countries, developer roles, and experience levels using .groupby() and .agg() to compare salaries and tech stack preferences.
-Results:Transformed raw survey data into structured, easy-to-read tabular reports. Identified the top 5 programming languages, global median salaries across regions, and key insights regarding remote work trends.
-Tech Stack: Python (Pandas, NumPy), Google Colaboratory, GitHub.
+Title: Stack Overflow Developer Survey Analysis
+Technologies used:Python (Programming Language)Pandas & NumPy (Data Wrangling and Analytics)
+Jupyter Notebook / Google Colab (Development Environment)
+Git & GitHub
+General Description:This project is a comprehensive data analysis of the global IT ecosystem based on the annual Stack Overflow Developer Survey dataset. It involves processing massive real-world survey responses to uncover patterns in software development, technology adoption, and work environments.
+Project Idea:The core idea of the project is to use exploratory data analysis (EDA) and descriptive statistics to build a clear demographic and professional profile of modern developers, tracking global industry benchmarks and tech popularity.
+My Tasks:
+Loaded, cleaned, and structured a large-scale dataset, successfully handling missing values (NaN).
+Parsed and analyzed multi-response text data (e.g., lists of programming languages separated by semicolons).
+Applied descriptive statistics to compute measures of central tendency (mean, median, mode) and quantiles for developer salaries and experience.
+Performed data segmentation using grouping and aggregation operations (.groupby() and .agg()) to compare compensation across countries and roles.
+Project Result:Successfully transformed raw, unformatted survey data into structured tabular reports. Generated clear insights on the top programming languages, calculated global salary benchmarks across different regions, and highlighted modern remote work trends among developers.
