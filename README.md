@@ -1,8 +1,13 @@
 Title: Stack Overflow Developer Survey Analysis
+
 Technologies used:Python (Programming Language)Pandas & NumPy (Data Wrangling and Analytics)
+
 Jupyter Notebook / Google Colab (Development Environment)
+
 Git & GitHub
+
 General Description:This project is a comprehensive data analysis of the global IT ecosystem based on the annual Stack Overflow Developer Survey dataset. It involves processing massive real-world survey responses to uncover patterns in software development, technology adoption, and work environments.
+
 Project Idea:The core idea of the project is to use exploratory data analysis (EDA) and descriptive statistics to build a clear demographic and professional profile of modern developers, tracking global industry benchmarks and tech popularity.
 My Tasks:
 Loaded, cleaned, and structured a large-scale dataset, successfully handling missing values (NaN).
